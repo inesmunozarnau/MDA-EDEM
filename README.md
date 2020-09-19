@@ -1,7 +1,6 @@
 # MDA-EDEM
 Student repository for sharing knowledge and code learnt in Master in Data Analytics EDEM
 
-I added this from Gitkraken
 
 ### **Link to EDEM**
 [Master Webpage](https://edem.eu)
