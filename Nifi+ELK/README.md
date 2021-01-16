@@ -9,7 +9,7 @@ Ingest data from API into ELK using nifi for visualization with Kibana.
 
 3. Kibana screenshot
 
-![screenshot](Kibana_311_hitmap.png)
+![screenshot](311_requests_hitmap.png)
 
 
 
